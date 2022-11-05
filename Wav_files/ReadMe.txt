@@ -1,0 +1,1 @@
+The naming convention for the .wav files is as follows. The first number followed by Hz determines the kHz of the signal in the file, yes it does say Hz but that's a mistake I didn't correct. The next number describes the azimuth angle of the signal from the array, and the next number is the elevation angle of the signal from the array.
