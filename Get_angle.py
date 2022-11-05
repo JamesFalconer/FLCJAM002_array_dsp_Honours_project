@@ -1,4 +1,3 @@
-import initialise
 import functions as funcs
 import wave
 import numpy as np
